@@ -1,0 +1,28 @@
+D:\Programiranje\C#\AutoClicker\bin\Debug\AutoClicker.exe.config
+D:\Programiranje\C#\AutoClicker\bin\Debug\AutoClicker.exe
+D:\Programiranje\C#\AutoClicker\bin\Debug\AutoClicker.pdb
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.exe
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.pdb
+D:\Programiranje\C#\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+D:\Programiranje\C#\AutoClicker\bin\Debug\AutoClicker.application
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.exe.manifest
+D:\Programiranje\C#\AutoClicker\obj\Debug\AutoClicker.application
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\bin\Debug\AutoClicker.exe.config
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\bin\Debug\AutoClicker.application
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\bin\Debug\AutoClicker.exe
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\bin\Debug\AutoClicker.pdb
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.exe.manifest
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.application
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.exe
+D:\Seminarski i poslici\Programiranje Poslici\Poslići\AutoClicker\obj\Debug\AutoClicker.pdb
